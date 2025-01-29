@@ -53,5 +53,6 @@
     "dompurify": "2.4.9",
     "postcss": "8.4.31"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "proxy": "https://c.lytics.io"
 }
